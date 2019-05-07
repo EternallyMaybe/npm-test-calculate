@@ -1,0 +1,11 @@
+# editorconfig.org
+root = true
+
+[src/**.js]
+charset = utf-8
+indent_style = tab
+indent_size = 4
+
+[package.json]
+indent_size = 2
+    
